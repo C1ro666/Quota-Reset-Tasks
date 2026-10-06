@@ -1,0 +1,4 @@
+interface:
+  display_name: "qrt — Quota Reset Tasks"
+  short_description: "五小时额度重置后安排单次任务，可指定模型与思考强度，验证完成后删除调度"
+  default_prompt: "使用 $qrt，额度重置后执行以下任务，完成并验证后删除对应定时任务：〔任务内容〕"

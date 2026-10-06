@@ -1,0 +1,11 @@
+# Local editor and runtime files
+.DS_Store
+Thumbs.db
+Desktop.ini
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.codex/
+artifacts/
